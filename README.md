@@ -7,7 +7,7 @@ Requires [Visual Studio Code (User)](https://code.visualstudio.com/download)
 The editor custom maps on your PC are located in the Documents/Stormgate. We're going to turn it into a VSCode workspace that can read Schemas placed in it.
 You can download the Schema file(s) and place them there (<>Code -> Download ZIP).
 
-Open the Stormgate folder in VSC.
+Open the Stormgate folder in VSC and turn it into a workspace as on the image.
 
 <img width="1637" height="876" alt="json schemas guide 3" src="https://github.com/user-attachments/assets/2f4cfe51-010f-415b-b720-51312a175057" />
 
