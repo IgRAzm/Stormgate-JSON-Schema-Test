@@ -21,7 +21,7 @@ Now we need to find the setting that sets the Schema in the Workspace. After goi
 
 You'll get the settings.json file, made in the .vscode folder. Edit the file like this to set up the Schema (because it's in the core of the workspace, it doesn't need a larger path. Also using web urls or local file urls without a workspace simply didn't work for me.)
 
-And... we're done! The only thing you need to remember is to open a scheme in a tab before coding in JSON triggers (I don't know why that's required, but it seems to be).
+And... we're done! The only thing you need to remember is to open a scheme in a tab before coding JSON triggers, otherwise they won't be suggested (I don't know why that's required, but it seems to be).
 
 https://github.com/user-attachments/assets/53471f86-de55-49a4-8f7b-6c2ff4fbce08
 
