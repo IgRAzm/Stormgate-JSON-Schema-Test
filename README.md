@@ -2,7 +2,7 @@ A work in progress auto-completion Schema json file for Stormgate Triggers.
 
 Made in order to increase QoL and simplify entry into the script editing to make triggers, by adding auto-suggest lines for the function_ids and some other elements used in triggers.
 
-Requires Visual Studio Code (User) [https://code.visualstudio.com/download]([url](https://code.visualstudio.com/download))
+Requires Visual Studio Code (User) ([url](https://code.visualstudio.com/download))
 
 The editor custom maps on your PC are located in the Documents/Stormgate. We're going to turn it into a VSCode workspace that can read Schemas placed in it.
 You can download the Schema file(s) and place them there (<>Code -> Download ZIP).
