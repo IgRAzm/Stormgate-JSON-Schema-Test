@@ -15,13 +15,13 @@ This creates .vscode folder and the workspace file there. The folder now can be 
 
 <img width="1829" height="1011" alt="json schemas guide" src="https://github.com/user-attachments/assets/bdb8008a-3a21-4413-ac3c-c758cb05143f" />
 
-Now we need to find the setting that sets the Schema in the Workspace. After going to Preferences -> Settings , search "json.schemas" and you'll get the entry.
+Now we need to find the setting that sets the Schema in the Workspace. After going to Preferences -> Settings , search "json.schemas".
 
 <img width="711" height="428" alt="json schemas guide 2" src="https://github.com/user-attachments/assets/69043dca-cab1-44aa-a925-d83fde692b0a" />
 
-You'll get the settings.json file, located in the .vscode folder. Edit the file like this (because it's in the core of the workspace, Schema doesn't need a larger path. Also using web urls or local file urls without a workspace simply didn't work for me.)
+You'll get the settings.json file, made in the .vscode folder. Edit the file like this to set up the Schema (because it's in the core of the workspace, it doesn't need a larger path. Also using web urls or local file urls without a workspace simply didn't work for me.)
 
-And... we're done! The only thing you need to remember is to open a scheme in a tab beforehand (I don't know why that's required, but it seems to be).
+And... we're done! The only thing you need to remember is to open a scheme in a tab before coding in JSON triggers (I don't know why that's required, but it seems to be).
 
 https://github.com/user-attachments/assets/53471f86-de55-49a4-8f7b-6c2ff4fbce08
 
