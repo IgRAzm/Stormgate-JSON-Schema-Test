@@ -11,7 +11,7 @@ Open the Stormgate folder in VSC and turn it into a workspace as on the image.
 
 <img width="1637" height="876" alt="json schemas guide 3" src="https://github.com/user-attachments/assets/2f4cfe51-010f-415b-b720-51312a175057" />
 
-This creates the workspace file. Opened this way and read as workspace, the folder can be set up in a way that allows the Schema to work. This creates .vscode folder and the workspace file there.
+This creates .vscode folder and the workspace file there. The folder now can be set up in a way that allows the Schema to work.
 
 <img width="1829" height="1011" alt="json schemas guide" src="https://github.com/user-attachments/assets/bdb8008a-3a21-4413-ac3c-c758cb05143f" />
 
