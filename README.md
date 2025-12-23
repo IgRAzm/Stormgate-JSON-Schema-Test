@@ -25,4 +25,6 @@ And... we're done! The only thing you need to remember is to open a scheme in a 
 
 https://github.com/user-attachments/assets/53471f86-de55-49a4-8f7b-6c2ff4fbce08
 
-TODO: add descriptions to the suggested functions, similarly to the UI version.
+Unfortunately it does sometimes bug out - it might be a code error, but it happens very inconsistenly. In the cases when the file doesn't recommend while typing, try placing typer selection after a function with "," and press Ctrl+Space to bring up the options; you'll probably be able to type and find one.
+
+TODO: add descriptions to the suggested functions, similarly to the UI version. Try to get it to work consistently (the bugs of this type are pretty common it seems).
